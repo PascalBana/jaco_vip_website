@@ -16,7 +16,7 @@
 
 .rental-article-top-container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: nowrap;
     justify-content: space-around;
     align-items: center;
