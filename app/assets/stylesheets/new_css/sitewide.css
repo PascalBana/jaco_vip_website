@@ -204,6 +204,9 @@
   }
 
   .carousel-btn {
+    height: 8rem;
+    width: 3rem;
+    border-radius: 2rem;
     position: absolute;
     z-index: 2;
     background: none;
