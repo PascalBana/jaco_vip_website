@@ -27,18 +27,30 @@ body {
 
 .rental-season-container {
     height: 10rem;
-    width: 100%;
-    background-color: blue;
+    width: 95%;
+    background-color: black;
+    color: white;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-inline: 1rem;
+    margin-inline: auto;
+    margin-bottom: 1rem;
 }
 
 .rental-season-price-container {
     height: 4rem;
-    background-color: grey;
+    background-color: #F0F0FF;
+    color: black;
     border: 1px white solid;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
+.rental-img-display-container {
     
 }
